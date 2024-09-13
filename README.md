@@ -25,10 +25,13 @@ Here are some ideas to get you started:
     <td>
       <p><b>ROBO DEMOLITION</b> is a small Unity3D mobile game inspired by games like <i>Vampire Survivors</i> and <i>Survivor io</i>.</p>
       <p>The player's task is to survive in the city fighting many different enemies with different behaviors. The player can also unlock new weapons and develop several character skills, which makes each game unique in its own way.</p>
-      <p><a href="https://github.com/Tomki2258/Robo-Demolition">Link do game source code</a></p>
+      <p><a href="https://github.com/Tomki2258/Robo-Demolition">Link to game source code</a></p>
     </td>
     <td>
       <img src="./robodemolition1.png" alt="Robo Demolition Icon" width="300px" align="right">
     </td>
   </tr>
 </table>
+
+
+Link do my Google Play <a href="https://github.com/Tomki2258/Robo-Demolition](https://play.google.com/store/apps/developer?id=Tomkii)">developer profile</a>
