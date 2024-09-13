@@ -1,5 +1,7 @@
 ## Hi there, my name is Tomek ( tamus ) 👋
 
+I am interested in programming and here on this profile there is some code and projects written by me, which is sometimes better and sometimes worse. I am also interested in gamedev and I create my simple projects in the Unity3D engine using C#
+
 <!--
 **Tomki2258/Tomki2258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,9 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# My Projects
-
-## `ROBO DEMOLITION`
+## My Projects
 
 <table>
   <tr>
