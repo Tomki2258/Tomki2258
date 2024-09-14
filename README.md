@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 </table>
 
 
-Link do my Google Play <a href="https://github.com/Tomki2258/Robo-Demolition](https://play.google.com/store/apps/developer?id=Tomkii)">developer profile</a>
+Link do my Google Play <a href="https://play.google.com/store/apps/developer?id=Tomkii">developer profile</a>
