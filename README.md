@@ -39,3 +39,4 @@ Here are some ideas to get you started:
 
 
 Link to my Google Play <a href="https://play.google.com/store/apps/developer?id=Tomkii">developer profile</a>
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Tomki2258&theme=dark&hide_border=true)](https://git.io/streak-stats)
