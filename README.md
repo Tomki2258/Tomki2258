@@ -36,8 +36,17 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-
-
 Link to my Google Play <a href="https://play.google.com/store/apps/developer?id=Tomkii">developer profile</a>
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Tomki2258&theme=dark&hide_border=true)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomki2258&layout=compact&hide=cmake,c)
+
+<table>
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://nirzak-streak-stats.vercel.app?user=Tomki2258&theme=dark&hide_border=true" alt="GitHub Streak">
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomki2258&layout=compact&hide=cmake,c" alt="Top Langs">
+    </td>
+  </tr>
+</table>
