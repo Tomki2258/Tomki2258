@@ -1,52 +1,44 @@
-## Hi there, my name is Tomek ( tamus ) 👋
+# Hi there, I'm Tomek (tamus) 👋
 
-I am interested in programming and here on this profile there is some code and projects written by me, which is sometimes better and sometimes worse. I am also interested in gamedev and I create my simple projects in the Unity3D engine using C#
+I am a passionate Software & Game Developer. I enjoy writing clean code, refactoring, and solving technical challenges in development.
 
-### How to reach me ? 
-Email - tamusdev@gmail.com
+📫 **How to reach me:** [tamusdev@gmail.com](mailto:tamusdev@gmail.com)  
+🎮 **Google Play:** [Check my developer profile](https://play.google.com/store/apps/developer?id=Tomkii)
 
-<!--
-**Tomki2258/Tomki2258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ My Projects
 
+### 🕵️‍♂️ UNMASKED (Global Game Jam 2026)
+A detective dialogue game created in 48 hours, where players interrogate suspects and analyze clues to deduce who committed the crime.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **My Role:** Lead Gameplay Programmer (in a 4-person team with 3 3D/2D artists).
+* **Technical Highlights:**
+  * Implemented a custom **ScriptableObject-based dialogue system** handling branching conversations and conditional responses.
+* **Technologies:** Unity 3D, C#, Unity Event System, Git.
+* **Links:** 🕹️ [Global Game Jam website](https://globalgamejam.org/games/2026/unmasked-6-1)
 
-## My Projects
+---
 
-<table>
-  <tr>
-    <td>
-      <p><b>ROBO DEMOLITION</b> is a small Unity3D mobile game inspired by games like <i>Vampire Survivors</i> and <i>Survivor io</i>.</p>
-      <p>The player's task is to survive in the city fighting many different enemies with different behaviors. The player can also unlock new weapons and develop several character skills, which makes each game unique in its own way.</p>
-      <p><a href="https://github.com/Tomki2258/Robo-Demolition">Link to game source code</a></p>
-      <p><a href="https://play.google.com/store/apps/details?id=com.tamus.RoboDemolition">Link to google play app</a></p>
-    </td>
-    <td>
-      <img src="./robodemolition1.png" alt="Robo Demolition Icon" width="300px" align="right">
-    </td>
-  </tr>
-</table>
-Link to my Google Play <a href="https://play.google.com/store/apps/developer?id=Tomkii">developer profile</a>
+### 🤖 ROBO DEMOLITION
+<img src="./robodemolition1.png" alt="Robo Demolition Icon" width="180px" align="right" style="margin-left: 15px; border-radius: 10px;">
 
-<table>
-  <tr>
-    <td>
-      <a href="https://git.io/streak-stats">
-        <img src="https://nirzak-streak-stats.vercel.app?user=Tomki2258&theme=dark&hide_border=true" alt="GitHub Streak">
-      </a>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomki2258&layout=compact&hide=cmake,c" alt="Top Langs">
-    </td>
-  </tr>
-</table>
+A fast-paced mobile action game inspired by the bullet-heaven genre (like *Vampire Survivors*). The player fights off waves of enemies with distinct AI behaviors, unlocks weapons, and upgrades character skills.
+
+* **Technical Highlights:**
+  * Implemented modular weapon upgrade systems and persistent player progression.
+* **Technologies:** Unity 3D, C#, Git.
+* **Links:** 📁 [Source Code](https://github.com/Tomki2258/Robo-Demolition) | 📱 [Get it on Google Play](https://play.google.com/store/apps/details?id=com.tamus.RoboDemolition)
+
+<br clear="right"/>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=Tomki2258&theme=dark&hide_border=true" alt="GitHub Streak" height="150px">
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomki2258&layout=compact&hide=cmake,c&theme=dark" alt="Top Langs" height="150px">
+</p>
