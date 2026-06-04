@@ -9,8 +9,19 @@ I am a passionate Software & Game Developer. I enjoy writing clean code, refacto
 
 ## 🛠️ My Projects
 
+### 🎒 EQUIPMENT & INVENTORY SYSTEM
+A modular, data-driven inventory and equipment system. It focuses on clean code architecture and separation of data from the UI representation.
+
+* **Technical Highlights:**
+  * Utilized **ScriptableObjects** for modular item data management, making it easy to create and configure new items.
+  * Implemented an **Event-driven architecture** to sync core data structure changes seamlessly with the UI layer.
+  * Implemented inventory logic supporting item stacking, splitting stacks, and strict slot constraints (e.g., preventing manual insertion into crafting output slots).
+* **Technologies:** Unity 3D, C#, ScriptableObjects, Unity UI, Git.
+* **Links:** 📁 [Source Code](https://github.com/Tomki2258/EquipmentSystem)
+---
+
 ### 🕵️‍♂️ UNMASKED (Global Game Jam 2026)
-<img src="./unmasked_1.png" alt="Robo Demolition Icon" width="180px" align="right" style="margin-left: 15px; border-radius: 10px;">
+<img src="./unmasked_1.png" alt="Unmasked Icon" width="180px" align="right" style="margin-left: 15px; border-radius: 10px;">
 
 A detective dialogue game created in 48 hours, where players interrogate suspects and analyze clues to deduce who committed the crime.
 
