@@ -10,6 +10,8 @@ I am a passionate Software & Game Developer. I enjoy writing clean code, refacto
 ## 🛠️ My Projects
 
 ### 🕵️‍♂️ UNMASKED (Global Game Jam 2026)
+<img src="./unmasked_1.png" alt="Robo Demolition Icon" width="180px" align="right" style="margin-left: 15px; border-radius: 10px;">
+
 A detective dialogue game created in 48 hours, where players interrogate suspects and analyze clues to deduce who committed the crime.
 
 * **My Role:** Lead Gameplay Programmer (in a 4-person team with 3 3D/2D artists).
