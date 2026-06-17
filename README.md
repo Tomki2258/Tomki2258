@@ -9,6 +9,29 @@ I am a passionate Software & Game Developer. I enjoy writing clean code, refacto
 
 ## 🛠️ My Projects
 
+### 🧠 LOGIC WORLD (University Finals Project)
+<img src="./LogicWorld.png" alt="Logic World Screenshot" width="180px" align="right" style="margin-left: 15px; border-radius: 10px;">
+
+An educational puzzle game developed as a university finals project. The player's objective is to complete levels by constructing programs using a visual programming interface.
+
+* **Technical Highlights:**
+  * **Event-Driven Architecture:** Implemented to decouple game systems and ensure clean communication between the UI, code interpreter, and game world.
+  * **Multi-Scene Architecture:** Utilized to enforce *Separation of Concerns*, making the project highly scalable and streamlining the pipeline for adding new levels.
+  * **Performance Optimization:** Maximized framerates through optimized lighting, mesh LODs, and efficient draw-call batching.
+  * **Software Design Patterns:** Adhered to industry best practices by implementing key design patterns:
+    * **Interpreter:** To parse, validate, and execute the player's visual code setup.
+    * **Command:** To manage and execute game actions sequentially.
+    * **Observer:** To handle decoupled, state-driven gameplay events.
+* **Core Features:**
+  * **Visual Programming Engine:** Block-based programming interface designed for intuitive learning.
+  * **Educational Gameplay:** Teaches core programming concepts through actions (`Move Forward`, `Move Backward`, `Turn Left`, `Turn Right`) and control flow (`Repeat [X]` loops, `If` obstacle-detection conditionals).
+* **Technologies:** Unity 3D, C#, Design Patterns, Git, ScriptableObjects, Unity Event System.
+* **Links:** 📁 [Source Code](https://github.com/Tomki2258/LogicWorld)
+
+<br clear="right"/>
+
+---
+
 ### 🎒 EQUIPMENT & INVENTORY SYSTEM
 A modular, data-driven inventory and equipment system. It focuses on clean code architecture and separation of data from the UI representation.
 
@@ -18,6 +41,7 @@ A modular, data-driven inventory and equipment system. It focuses on clean code 
   * Implemented inventory logic supporting item stacking, splitting stacks, and strict slot constraints (e.g., preventing manual insertion into crafting output slots).
 * **Technologies:** Unity 3D, C#, ScriptableObjects, Unity Event System, Git.
 * **Links:** 📁 [Source Code](https://github.com/Tomki2258/EquipmentSystem)
+
 ---
 
 ### 🕵️‍♂️ UNMASKED (Global Game Jam 2026)
