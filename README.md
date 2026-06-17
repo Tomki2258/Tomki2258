@@ -16,7 +16,7 @@ A modular, data-driven inventory and equipment system. It focuses on clean code 
   * Utilized **ScriptableObjects** for modular item data management, making it easy to create and configure new items.
   * Implemented an **Event-driven architecture** to sync core data structure changes seamlessly with the UI layer.
   * Implemented inventory logic supporting item stacking, splitting stacks, and strict slot constraints (e.g., preventing manual insertion into crafting output slots).
-* **Technologies:** Unity 3D, C#, ScriptableObjects, Unity UI, Git.
+* **Technologies:** Unity 3D, C#, ScriptableObjects, Unity Event System, Git.
 * **Links:** 📁 [Source Code](https://github.com/Tomki2258/EquipmentSystem)
 ---
 
@@ -28,7 +28,7 @@ A detective dialogue game created in 48 hours, where players interrogate suspect
 * **My Role:** Lead Gameplay Programmer (in a 4-person team with 3 3D/2D artists).
 * **Technical Highlights:**
   * Implemented a custom **ScriptableObject-based dialogue system** handling branching conversations and conditional responses.
-* **Technologies:** Unity 3D, C#, Unity Event System, Git.
+* **Technologies:** Unity 3D, C#, ScriptableObjects, Unity Event System, Git.
 * **Links:** 🕹️ [Global Game Jam website](https://globalgamejam.org/games/2026/unmasked-6-1)
 
 ---
